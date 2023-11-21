@@ -1,1 +1,1 @@
-# descendant-combinator
+The purpose of this project is to work with styling descendants of other elements.
